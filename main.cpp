@@ -1,5 +1,5 @@
 #include <iostream>
-#include <zeneural>
+#include <zeneural/Neural.h>
 #include <vector>
 
 int main () {
